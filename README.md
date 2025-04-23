@@ -1,12 +1,35 @@
-# React + Vite
+#  Responsive Team Showcase
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ It highlights team members with their photo, role, and unique background color in a clean, modern layout.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  Features
 
-## Expanding the ESLint configuration
+-  Responsive layout (1 column on mobile, 3–4 columns on larger screens)
+-  Team member cards with name, job title, and background color
+-  Fully responsive design
+-  Tailwind CSS
+-  Decorative background image
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Preview
+
+![image](https://github.com/user-attachments/assets/ae44df63-bbee-4b80-869d-597fe91b8266)
+
+![image](https://github.com/user-attachments/assets/fe08bc5e-3e03-46ca-8adf-6f5a93228c31)
+
+---
+
+## 🛠 Technologies Used
+
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- JavaScript (ES6+)
+- Responsive Grid System
+
+---
+
+
+
